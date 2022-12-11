@@ -197,7 +197,8 @@ html, body {
       }
       .content {
         overflow-y: scroll;
-        padding: 20px;
+        padding-left: 65px;
+        padding-right:25px;
 
         background: linear-gradient(-45deg, #065729, #325b3e, #523052, #361d1d);
         background-size: 400% 400%;
