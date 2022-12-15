@@ -370,6 +370,19 @@ h1:hover{
     color:#bcd6e3;
 }
 
+.citationtext {
+    font-family:'Batusa';
+    font-size:14px;
+    max-width: 600px;
+    transition:0.5s;
+    
+}
+
+.citationtext:hover {
+    font-style:italic;
+    color:#bcd6e3;
+}
+
 
 /* font size */
 
